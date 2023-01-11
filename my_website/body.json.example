@@ -1,0 +1,30 @@
+for product : 
+
+{
+        "id": 1,
+        "productName": "TEST",
+        "productPrice": 1,
+        "productCategory":1
+}
+
+
+for users :
+    {
+        "id": 1,
+        "username": "TEST",
+        "password": "TEST"
+}
+
+
+for categories :
+{
+        "id": 1,
+        "name":"test"
+}
+
+for order:
+{
+        "id": 2,
+        "orderdate":"2022-11-10",
+        "userid": 1
+} 
